@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.0"
 
     defaultConfig {
-        applicationId "de.blinkt.wearteatimerphoneapp"
+        applicationId "de.blinkt.wearteatimer"
         minSdkVersion 18
         targetSdkVersion 23
         versionCode 1
